@@ -5,7 +5,7 @@
 My ![Visitor Count](https://profile-counter.glitch.me/wxtsky/count.svg) visitor
 
 
-# I'm Wang Fei <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I'm BeiBei <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently stay **Home**
 - 🌱 I’m currently learning **React**
@@ -18,7 +18,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/wxtsky/count.svg) visitor
 # About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxtsky)](https://github.com=wxtsky/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username==wxtsky=true&theme=tokyonight)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxtsky&show_icons=true&theme=tokyonight)
 
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
