@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I'm [Your Name], a [Your Profession] with a passion for [Your Passion]. I enjoy [What You Enjoy], and I'm always looking to learn new things.
+Hi! I'm WXTSKY, I'm always looking to learn new things.
 
 ## Skills
 
