@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 224" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f6feb"/>
+      <stop offset="0.6" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="438" height="222" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="26" y="1" width="170" height="2.5" rx="1.25" fill="url(#accent)"/>
+
+  <text x="28" y="58" font-size="21" font-weight="700" fill="#e6edf3">🏝️ CodeIsland</text>
+  <text x="28" y="87" font-size="13.5" fill="#58a6ff">AI coding agents, visible at a glance.</text>
+
+  <text x="28" y="113" font-size="12.5" fill="#8b949e">Live session status, tool calls, approvals &amp; replies for</text>
+  <text x="28" y="133" font-size="12.5" fill="#8b949e">13 AI coding tools — Claude Code, Codex, Cursor &amp; more —</text>
+  <text x="28" y="153" font-size="12.5" fill="#8b949e">right in the MacBook notch. iPhone &amp; Apple Watch buddies.</text>
+
+  <g font-size="11" fill="#c9d1d9">
+    <rect x="28" y="176" width="58" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+    <text x="57" y="193" text-anchor="middle">Swift</text>
+    <rect x="96" y="176" width="62" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+    <text x="127" y="193" text-anchor="middle">macOS</text>
+    <rect x="168" y="176" width="46" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+    <text x="191" y="193" text-anchor="middle">iOS</text>
+    <rect x="224" y="176" width="76" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+    <text x="262" y="193" text-anchor="middle">watchOS</text>
+  </g>
+</svg>

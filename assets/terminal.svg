@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 336" font-family="ui-monospace,'SF Mono',Menlo,'Cascadia Mono',Consolas,monospace">
+  <!-- window -->
+  <rect x="1" y="1" width="878" height="334" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="26" cy="22" r="6" fill="#ff5f57"/>
+  <circle cx="48" cy="22" r="6" fill="#febc2e"/>
+  <circle cx="70" cy="22" r="6" fill="#28c840"/>
+  <text x="440" y="26" text-anchor="middle" font-size="12" fill="#8b949e">wxt@sky — ~/ship</text>
+  <line x1="1" y1="42" x2="879" y2="42" stroke="#21262d" stroke-width="1"/>
+
+  <!-- $ whoami (typed) -->
+  <clipPath id="type1">
+    <rect x="28" y="60" height="26" width="0">
+      <animate attributeName="width" from="0" to="95" begin="0.5s" dur="0.5s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#type1)">
+    <text x="28" y="78" font-size="14"><tspan fill="#3fb950">$</tspan><tspan dx="8" fill="#e6edf3">whoami</tspan></text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.2s" fill="freeze"/>
+    <text x="28" y="104" font-size="14"><tspan fill="#e6edf3" font-weight="600">wxtsky</tspan><tspan dx="6" fill="#8b949e">· building tools that make human–AI collaboration feel native</tspan></text>
+  </g>
+
+  <!-- $ ls ~/ship (typed) -->
+  <clipPath id="type2">
+    <rect x="28" y="120" height="26" width="0">
+      <animate attributeName="width" from="0" to="120" begin="1.8s" dur="0.6s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#type2)">
+    <text x="28" y="138" font-size="14"><tspan fill="#3fb950">$</tspan><tspan dx="8" fill="#e6edf3">ls ~/ship</tspan></text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.2s" fill="freeze"/>
+    <text x="28" y="164" font-size="14"><tspan fill="#58a6ff" font-weight="600">CodeIsland/</tspan><tspan dx="26" fill="#58a6ff" font-weight="600">byob/</tspan><tspan dx="26" fill="#484f58">drafts/</tspan></text>
+  </g>
+
+  <!-- $ cat philosophy.md (typed) -->
+  <clipPath id="type3">
+    <rect x="28" y="180" height="26" width="0">
+      <animate attributeName="width" from="0" to="190" begin="3.2s" dur="0.8s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#type3)">
+    <text x="28" y="198" font-size="14"><tspan fill="#3fb950">$</tspan><tspan dx="8" fill="#e6edf3">cat philosophy.md</tspan></text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="4.2s" dur="0.2s" fill="freeze"/>
+    <text x="28" y="224" font-size="14"><tspan fill="#484f58">1.</tspan><tspan dx="8" fill="#c9d1d9">stay quiet until useful</tspan></text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="4.45s" dur="0.2s" fill="freeze"/>
+    <text x="28" y="250" font-size="14"><tspan fill="#484f58">2.</tspan><tspan dx="8" fill="#c9d1d9">local control · real context · small interfaces</tspan></text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="4.7s" dur="0.2s" fill="freeze"/>
+    <text x="28" y="276" font-size="14"><tspan fill="#484f58">3.</tspan><tspan dx="8" fill="#e6edf3" font-style="italic">build the interface, hide the machinery</tspan></text>
+  </g>
+
+  <!-- idle prompt + blinking cursor -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="5.3s" dur="0.15s" fill="freeze"/>
+    <text x="28" y="310" font-size="14" fill="#3fb950">$</text>
+    <rect x="46" y="297" width="9" height="17" fill="#58a6ff">
+      <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1.06s" begin="5.3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
