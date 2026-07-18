@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="wxtsky — building tools for the AI era" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/terminal.svg" alt="$ whoami — wxtsky · building tools that make human–AI collaboration feel native. $ ls ~/ship — CodeIsland/ byob/ drafts/. $ cat philosophy.md — 1. stay quiet until useful · 2. local control, real context, small interfaces · 3. build the interface, hide the machinery" width="94%" />
+  <img src="./assets/terminal.svg" alt="$ whoami — wxtsky · building tools that make human–AI collaboration feel native. $ ls ~/ship — CodeIsland/ byob/ drafts/. $ cat philosophy.md — 1. stay quiet until useful · 2. local control, real context, small interfaces · 3. build the interface, hide the machinery" width="100%" />
 </p>
 
 <br />
